@@ -1,12 +1,10 @@
+---
 layout: page
 title: "My Projects"
 permalink: /my-projects
-
----
-title: "My Projects
 ---
 
-# About Me
+# My Projects
 
 You can find a list of all my public projects as follows (currently none):
 
